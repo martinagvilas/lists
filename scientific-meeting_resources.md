@@ -57,8 +57,7 @@ Ordered alphabetically.
 ## Seminars / Symposiums / Special lectures
 #### Computational neuroscience
 - [Building machines that learn and think like people (by Sam Gershman at CBMM)](https://www.youtube.com/watch?v=O0MF-r9PsvE&list=PLyGKBDfnk-iAWSvnmcPv8t3DhiMkwgemi)
--
-[CBMM Special Seminars 1](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDig1-KCvDgdaptsO2jPJVt)
+- [CBMM Special Seminars 1](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDig1-KCvDgdaptsO2jPJVt)
 - [CBMM Special Seminars 2](https://www.youtube.com/playlist?list=PLyGKBDfnk-iBDiD5hPPumy5-VP7OBXUkA)
 - [CBMM Summer Lectures](https://www.youtube.com/watch?v=iMQFGR3PQbM&list=PLyGKBDfnk-iDR9s-_AyLw59zhX4YGFJvh)
 - [Machine learning for Neuroscience (by Mariya Toneva)](https://www.youtube.com/channel/UCqdEITHZImddGJocJeHvUsQ)
