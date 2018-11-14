@@ -3,30 +3,34 @@
 
 Tags indicate the form of the course:
 
+![](https://img.shields.io/badge/-blog-orange.svg)
 ![](https://img.shields.io/badge/-book-violet.svg)
-
+![](https://img.shields.io/badge/-course-grey.svg)
+![](https://img.shields.io/badge/-list-brown.svg)
 ![](https://img.shields.io/badge/-paper-yellow.svg)
-
 ![](https://img.shields.io/badge/-tutorial-blue.svg)
-
 ![](https://img.shields.io/badge/-tools-red.svg)
-
 ![](https://img.shields.io/badge/-video-green.svg)
 
 :star: recommended
 
 
 ## Programming basics
-- [Science Hacking 101](https://www.youtube.com/watch?v=Gin8_AITmS0) _by Jeremy Manning at MIND 2018_  ![](https://img.shields.io/badge/-video-green.svg)  :star:
+- [Base CS](https://medium.com/basecs) ![](https://img.shields.io/badge/-blog-orange.svg)
+- [Teach yourself computer science](https://teachyourselfcs.com/) ![](https://img.shields.io/badge/-list-brown.svg)
 
 
 ## Python
 
 #### Beginner
 - [A whirlwind tour of python](https://jakevdp.github.io/WhirlwindTourOfPython/) _by Jake VanderPlas_ ![](https://img.shields.io/badge/-book-violet.svg)
+- [Basic Python](https://www.codecademy.com/learn/learn-python) _by CodeAcademy_ ![](https://img.shields.io/badge/-course-grey.svg)
 - [Data manipulation in Pandas/Python](https://www.youtube.com/watch?v=1VY8ww9ZuzY) _by Tal Yarkoni at NH 2018_ ![](https://img.shields.io/badge/-video-green.svg)
+- [Google Python class](https://developers.google.com/edu/python/) ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [Introduction to Python](https://github.com/neurohackademy/introduction-to-python/blob/master/introduction-to-python.ipynb) _by Tal Yarkoni_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [Introduction to Python](https://www.youtube.com/watch?v=XkUrvhcSE3w&feature=youtu.be) _by Tal Yarkoni  at NH 2018_ ![](https://img.shields.io/badge/-video-green.svg)
+- [Learn Python](https://www.learnpython.org/) ![](https://img.shields.io/badge/-tutorial-blue.svg)
+- [Python tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) _by Corey Schafer_ ![](https://img.shields.io/badge/-video-green.svg)
 
 
 #### Advanced
@@ -84,6 +88,7 @@ Git and GitHub](https://journals.plos.org/ploscompbiol/article?id=10.1371/journa
 
 
 ## Other Tools
+- [Science Hacking 101](https://www.youtube.com/watch?v=Gin8_AITmS0) _by Jeremy Manning at MIND 2018_  ![](https://img.shields.io/badge/-video-green.svg)  :star:
 - [Tools from the Center for Open Neuroscience](https://www.youtube.com/watch?v=RBaJn2Xtqzg&index=8&t=2278s&list=PLEE6ggCEJ0H0KOlMKx_PUVB_16VoCfGj9) _by Yaroslav Halchenko at MIND 2018_ ![](https://img.shields.io/badge/-video-green.svg)
 
 ## Other resources
@@ -91,3 +96,4 @@ Git and GitHub](https://journals.plos.org/ploscompbiol/article?id=10.1371/journa
 - [Introduction to web technologies](https://www.youtube.com/watch?v=zPuld-D8Yfk) _by Anisha Keshavan at NH 2018_ ![](https://img.shields.io/badge/-video-green.svg)
 - [From interactive exploration to reproducible data science](https://www.youtube.com/watch?v=zC-3sdPtb0w&feature=youtu.be) _by Fernando Perez at NH 2018_ ![](https://img.shields.io/badge/-video-green.svg)
 - [Rossetta code](http://www.rosettacode.org/wiki/Rosetta_Code): programming solutions to the same task in many different  languages ![](https://img.shields.io/badge/-tutorial-blue.svg)
+- [Scientific coding resources](https://docs.google.com/document/d/1Wt6sZUavq4oQf4t3tpQARcajf-6i4TtHlx_lw-WJD1U/edit#) ![](https://img.shields.io/badge/-list-brown.svg)
