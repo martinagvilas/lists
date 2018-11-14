@@ -5,6 +5,8 @@ Tags indicate the form of the course:
 
 ![](https://img.shields.io/badge/-book-violet.svg)
 
+![](https://img.shields.io/badge/-paper-yellow.svg)
+
 ![](https://img.shields.io/badge/-tutorial-blue.svg)
 
 ![](https://img.shields.io/badge/-tools-red.svg)
@@ -42,8 +44,32 @@ Tags indicate the form of the course:
 
 
 ## Git
+- [A Quick Introduction to Version Control with
+Git and GitHub](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668) _by Bilschak et al.(2016)_ ![](https://img.shields.io/badge/-paper-yellow.svg)
+- [Github learning lab courses](https://lab.github.com/courses) ![](https://img.shields.io/badge/-tutorial-blue.svg)
+- [Github get up and running](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-) ![](https://img.shields.io/badge/-video-green.svg)
+- [Github guides](https://guides.github.com/) ![](https://img.shields.io/badge/-tutorial-blue.svg)
+- [Github help](https://help.github.com/categories/bootcamp/) ![](https://img.shields.io/badge/-tutorial-blue.svg)
+- [Github webcasts](https://www.youtube.com/playlist?list=PLg7s6cbtAD17uAwaZwiykDci_q3te3CTY) ![](https://img.shields.io/badge/-video-green.svg)
+- [Git & Github](https://www.youtube.com/playlist?list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4) _with Briana Swift_ ![](https://img.shields.io/badge/-video-green.svg)
+- [Git basics](https://www.youtube.com/playlist?list=PLg7s6cbtAD165JTRsXh8ofwRw0PqUnkVH) ![](https://img.shields.io/badge/-video-green.svg)
+- [Git for ages 4 and up](https://www.youtube.com/watch?v=1ffBJ4sVUb4) ![](https://img.shields.io/badge/-video-green.svg)
 - [Git tutorial](https://www.youtube.com/watch?v=0DGCnBZBoc0&index=2&t=5s&list=PLEE6ggCEJ0H0KOlMKx_PUVB_16VoCfGj9) _by Eshin Jolly at MIND 2018_ ![](https://img.shields.io/badge/-video-green.svg)
+- [Pro Git](https://git-scm.com/book/en/v2) _by Scott Chacon and Ben Straub_ ![](https://img.shields.io/badge/-book-violet.svg)   :star:
+- [Version control with Git](http://datasci.kitzes.com/lessons/git/)  _by Justin Kitzes_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
+- [Visualize git](https://github.com/git-school/visualizing-git): illustration of common Git operations ![](https://img.shields.io/badge/-tutorial-blue.svg)
 
+
+#### Specific
+- [10 common git problems and how to fix them](https://dev.to/citizen428/10-common-git-problems-and-how-to-fix-them-234o) ![](https://img.shields.io/badge/-tutorial-blue.svg)
+- [Collaborating with issues and pull requests](https://help.github.com/categories/collaborating-with-issues-and-pull-requests/) ![](https://img.shields.io/badge/-tutorial-blue.svg)
+- [Command line and git](https://hub.github.com/) ![](https://img.shields.io/badge/-tutorial-blue.svg)
+- [Learn Git branching](https://learngitbranching.js.org/) ![](https://img.shields.io/badge/-tutorial-blue.svg)
+
+
+#### References
+- [Command list](https://git-scm.com/docs)
+- [Official cheat-sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 
 ## PsychoPy
 

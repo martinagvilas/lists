@@ -33,6 +33,7 @@ Ordered alphabetically.
 - _Computational Psychiatry ETH_
   - [2017](https://www.video.ethz.ch/lectures/d-itet/2017/autumn/227-0971-00L.html)
   - [2016](https://www.video.ethz.ch/lectures/d-itet/2016/autumn/227-0971-00L.html)
+- [StatCon talks](https://github.com/stan-dev/stancon_talks)
 
 
 ## Summer schools
