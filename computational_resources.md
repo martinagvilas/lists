@@ -52,6 +52,7 @@ Git and GitHub](https://journals.plos.org/ploscompbiol/article?id=10.1371/journa
 - [Github help](https://help.github.com/categories/bootcamp/) ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [Github webcasts](https://www.youtube.com/playlist?list=PLg7s6cbtAD17uAwaZwiykDci_q3te3CTY) ![](https://img.shields.io/badge/-video-green.svg)
 - [Git & Github](https://www.youtube.com/playlist?list=PLg7s6cbtAD17Gw5u8644bgKhgRLiJXdX4) _with Briana Swift_ ![](https://img.shields.io/badge/-video-green.svg)
+- [Git & Github for poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) ![](https://img.shields.io/badge/-video-green.svg)
 - [Git basics](https://www.youtube.com/playlist?list=PLg7s6cbtAD165JTRsXh8ofwRw0PqUnkVH) ![](https://img.shields.io/badge/-video-green.svg)
 - [Git for ages 4 and up](https://www.youtube.com/watch?v=1ffBJ4sVUb4) ![](https://img.shields.io/badge/-video-green.svg)
 - [Git tutorial](https://www.youtube.com/watch?v=0DGCnBZBoc0&index=2&t=5s&list=PLEE6ggCEJ0H0KOlMKx_PUVB_16VoCfGj9) _by Eshin Jolly at MIND 2018_ ![](https://img.shields.io/badge/-video-green.svg)
