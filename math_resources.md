@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/-book-violet.svg)
 
-![](https://img.shields.io/badge/-course-grey.svg)
+/Users/martina.gonzales/Projects/side_projects/lists/math_resources.md
 
 ![](https://img.shields.io/badge/-tutorial-blue.svg)
 
