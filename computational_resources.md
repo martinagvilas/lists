@@ -15,9 +15,12 @@ Tags indicate the format of the resource:
 :star: recommended
 
 
-## Programming basics
+## Programming and CS basics
 - [Base CS](https://medium.com/basecs) ![](https://img.shields.io/badge/-blog-orange.svg)
+- [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#coding-style) ![](https://img.shields.io/badge/-list-brown.svg)
+- [Nand2tetris](https://www.nand2tetris.org/course): the site contains all the project materials and software tools necessary for building a general-purpose computer system from the ground up ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [Teach yourself computer science](https://teachyourselfcs.com/) ![](https://img.shields.io/badge/-list-brown.svg)
+- [10 common data-structures explained with videos + exercise](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b) ![](https://img.shields.io/badge/-tutorial-blue.svg) ![](https://img.shields.io/badge/-video-green.svg)
 
 
 ## Python
@@ -32,16 +35,27 @@ Tags indicate the format of the resource:
 - [Introduction to Python](https://www.youtube.com/watch?v=XkUrvhcSE3w&feature=youtu.be) _by Tal Yarkoni  at NH 2018_ ![](https://img.shields.io/badge/-video-green.svg)
 - [Introduction to Python](https://cogs18.github.io/intro/) _by Tom Donogue_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [Learn Python](https://www.learnpython.org/) ![](https://img.shields.io/badge/-tutorial-blue.svg)
+- [PEP 8 style guide](https://www.python.org/dev/peps/pep-0008/)
 - [Python tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) _by Corey Schafer_ ![](https://img.shields.io/badge/-video-green.svg)
 - [Think Python](https://github.com/AllenDowney/ThinkPython2) _by Allen Downey_ ![](https://img.shields.io/badge/-book-violet.svg)
 
+#### Pandas
+- [Pandas learning resources](http://pandas.pydata.org/pandas-docs/stable/tutorials.html) ![](https://img.shields.io/badge/-list-brown.svg)
 
-#### Advanced
+#### Debugging
+- [Debugging with Pycharm](https://www.jetbrains.com/help/pycharm/part-1-debugging-python-code.html) ![](https://img.shields.io/badge/-tutorial-blue.svg)
+
+#### Testing
+- [Python testing and continuous integration](http://katyhuff.github.io/python-testing/) _by Katy Huff_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
+
+#### Packaging
+- [Packaging in Python](https://nsls-ii.github.io/scientific-python-cookiecutter/index.html) ![](https://img.shields.io/badge/-tutorial-blue.svg)
+- [Packaging intro](http://veekaybee.github.io/2017/09/26/python-packaging/#intro) _by Vicki Boykis_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
+
+#### Others/Advanced
 - [All algorithms implemented in Python](https://github.com/TheAlgorithms/Python) ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [Awesome Python features explained with Harry Potter](Awesome Python Features Explained Using the World of Magic
 ) ![](https://img.shields.io/badge/-tutorial-blue.svg)
-- [Debugging with Pycharm](https://www.jetbrains.com/help/pycharm/part-1-debugging-python-code.html) ![](https://img.shields.io/badge/-tutorial-blue.svg)
-- [Packaging in Python](https://nsls-ii.github.io/scientific-python-cookiecutter/index.html) ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [Type annotations](https://dev.to/dstarner/using-pythons-type-annotations-4cfe) ![](https://img.shields.io/badge/-tutorial-blue.svg)
 
 #### Scientific Python
@@ -51,7 +65,8 @@ Tags indicate the format of the resource:
 
 
 ## Terminal
-
+- [Conquering the command line](http://conqueringthecommandline.com/book/frontmatter) ![](https://img.shields.io/badge/-book-violet.svg)
+- [The Unix shell](http://swcarpentry.github.io/shell-novice/) _by The Carpentries_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
 
 ## Git
 - [A Quick Introduction to Version Control with
@@ -67,6 +82,7 @@ Git and GitHub](https://journals.plos.org/ploscompbiol/article?id=10.1371/journa
 - [Git for ages 4 and up](https://www.youtube.com/watch?v=1ffBJ4sVUb4) ![](https://img.shields.io/badge/-video-green.svg)
 - [Git tutorial](https://www.youtube.com/watch?v=0DGCnBZBoc0&index=2&t=5s&list=PLEE6ggCEJ0H0KOlMKx_PUVB_16VoCfGj9) _by Eshin Jolly at MIND 2018_ ![](https://img.shields.io/badge/-video-green.svg)
 - [Pro Git](https://git-scm.com/book/en/v2) _by Scott Chacon and Ben Straub_ ![](https://img.shields.io/badge/-book-violet.svg)   :star:
+- [Learn Git in 20 minutes](https://www.youtube.com/watch?v=IHaTbJPdB-s)
 - [Version control with Git](http://datasci.kitzes.com/lessons/git/)  _by Justin Kitzes_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [Visualize git](https://github.com/git-school/visualizing-git): illustration of common Git operations ![](https://img.shields.io/badge/-tutorial-blue.svg)
 
@@ -87,8 +103,10 @@ Git and GitHub](https://journals.plos.org/ploscompbiol/article?id=10.1371/journa
 ## PsychoPy
 
 ## Jupyter
+- [Jupyter notebook tutorial: the definitive guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook) _by Karlijin Willems at datacamp_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [Jupyter tutorial](https://www.youtube.com/watch?v=CSkTJRNBTME&index=3&t=4s&list=PLEE6ggCEJ0H0KOlMKx_PUVB_16VoCfGj9) _by Eshin Jolly at MIND 2018_ ![](https://img.shields.io/badge/-video-green.svg)
 - [JupyterLab demo](https://github.com/jupyterlab/jupyterlab-demo) ![](https://img.shields.io/badge/-tutorial-blue.svg)
+- [28 jupyter notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/) ![](https://img.shields.io/badge/-tutorial-blue.svg)
 
 
 ## Docker

@@ -33,6 +33,7 @@ Ordered alphabetically.
 - _Computational Psychiatry ETH_
   - [2017](https://www.video.ethz.ch/lectures/d-itet/2017/autumn/227-0971-00L.html)
   - [2016](https://www.video.ethz.ch/lectures/d-itet/2016/autumn/227-0971-00L.html)
+- [International Conference on Learning and Memory 2018](https://www.youtube.com/playlist?list=PLwNzN-LUxWL43MOJXknMmO6XLlgDVBTYZ)
 - [ISMRM 2018](https://www.youtube.com/playlist?list=PLuA0pYRPZ4uDsQh4Bhy8UlTZquFh4sZHd)
 - [Machine Learning videos at various conferences](http://videolectures.net/Top/Computer_Science/Machine_Learning/)
 - [StatCon talks](https://github.com/stan-dev/stancon_talks)
