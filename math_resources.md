@@ -7,6 +7,7 @@
 
 ## General resources
 - [Awesome math](https://github.com/llSourcell/learn_math_fast#learning-platforms) ![](https://img.shields.io/badge/-list-brown.svg)
+- [How to read mathematics](http://www.people.vcu.edu/~dcranston/490/handouts/math-read.html) _by Shai Simonson and Fernando Gouvea_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [Intro to mathematical thinking](https://www.coursera.org/learn/mathematical-thinking#) ![](https://img.shields.io/badge/-course-grey.svg)
 - [Khan Academy](https://www.khanacademy.org/)
 - [3blue1brown](http://www.3blue1brown.com/)
@@ -21,12 +22,16 @@
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) _by 3blue1brown_ ![](https://img.shields.io/badge/-video-green.svg)
 - [MIT Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) ![](https://img.shields.io/badge/-course-grey.svg)
 
+#### Specific
+- [Computational linear algebra for coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md) ![](https://img.shields.io/badge/-course-grey.svg)
+
 ## Probability
 - [Intro to probability and data - Coursera](https://www.coursera.org/learn/probability-intro)  ![](https://img.shields.io/badge/-course-grey.svg)
 - [Probability: Basic concepts and discrete random variables](https://www.edx.org/course/probability-basic-concepts-discrete-random-variables) ![](https://img.shields.io/badge/-course-grey.svg)
 
 ## Calculus
 - [Calculus made easy](http://calculusmadeeasy.org/) _by Silvanus P. Thompson_ ![](https://img.shields.io/badge/-book-violet.svg)
+- [Essence of calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) _by 3blue1brown_ ![](https://img.shields.io/badge/-video-green.svg)
 
 
 ## For ML
