@@ -18,6 +18,22 @@ Tags indicate the format of the resource:
 
 * [Programming and CS basics](#programming-and-cs-basics)
 * [Python](#python)
+  * [Beginner](#beginner)
+  * [Pandas](#pandas)
+  * [Debugging](#debugging)
+  * [Testing](#testing)
+  * [Packaging](#packaging)
+  * [Others/Advanced](#others/advanced)
+  * [Scientific Python](#scientific-python)
+* [Terminal](#terminal)
+* [Git](#git)
+  * [Specific](#specific)
+  * [References](#references)
+* [PsychoPy](#psychopy)
+* [Jupyter](#jupyter)
+* [Docker](#docker)
+* [Other tools](#other-tools)
+* [Other resources](#other-resources)
 
 
 ## Programming and CS basics
