@@ -14,10 +14,18 @@ Tags indicate the format of the resource:
 
 :star: recommended
 
+## Index
+
+* [Programming and CS basics](#programming-and-cs-basics)
+* [Python](#python)
+
 
 ## Programming and CS basics
 - [Base CS](https://medium.com/basecs) ![](https://img.shields.io/badge/-blog-orange.svg)
 - [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#coding-style) ![](https://img.shields.io/badge/-list-brown.svg)
+- [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) ![](https://img.shields.io/badge/-list-brown.svg)
+- [CS50 Introduction to Computer Science - Harvard](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) ![](https://img.shields.io/badge/-course-grey.svg)
+- [Free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#c-1) ![](https://img.shields.io/badge/-list-brown.svg)
 - [Nand2tetris](https://www.nand2tetris.org/course): the site contains all the project materials and software tools necessary for building a general-purpose computer system from the ground up ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [Teach yourself computer science](https://teachyourselfcs.com/) ![](https://img.shields.io/badge/-list-brown.svg)
 - [10 common data-structures explained with videos + exercise](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b) ![](https://img.shields.io/badge/-tutorial-blue.svg) ![](https://img.shields.io/badge/-video-green.svg)
