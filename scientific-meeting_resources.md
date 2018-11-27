@@ -69,6 +69,7 @@ Ordered alphabetically.
 #### Others
 - [2016 CCN Workshops: Predictive Coding](https://www.youtube.com/playlist?list=PLPDZ9rcIfxyMZacItqYr58NLzvtRPZcRQ)
 - [NYU Center for Mind, Brain and Consciousness - Debates](https://www.youtube.com/channel/UCcKUMCGFL4d8WKIJYSaxPYw)
+- [Schrödinger at 75 - What is life? The future of biology](https://www.youtube.com/playlist?list=PL55XqDjybyL_8NWo9WDUrGoAQP619PFLg)
 
 
 ## Courses on general topics of neuroscience
