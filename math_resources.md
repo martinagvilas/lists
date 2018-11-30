@@ -28,6 +28,7 @@
 ## Probability
 - [Intro to probability and data - Coursera](https://www.coursera.org/learn/probability-intro)  ![](https://img.shields.io/badge/-course-grey.svg)
 - [Probability: Basic concepts and discrete random variables](https://www.edx.org/course/probability-basic-concepts-discrete-random-variables) ![](https://img.shields.io/badge/-course-grey.svg)
+- [Probabilistic systems analysis and applied probability - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/index.htm) ![](https://img.shields.io/badge/-course-grey.svg)
 
 ## Calculus
 - [Calculus made easy](http://calculusmadeeasy.org/) _by Silvanus P. Thompson_ ![](https://img.shields.io/badge/-book-violet.svg)
