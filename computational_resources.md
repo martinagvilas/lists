@@ -23,15 +23,16 @@ Tags indicate the format of the resource:
   * [Debugging](#debugging)
   * [Testing](#testing)
   * [Packaging](#packaging)
-  * [Others/Advanced](#others/advanced)
+  * [Others](#others)
   * [Scientific Python](#scientific-python)
-* [Terminal](#terminal)
+* [Shell programming](#shell-programming)
 * [Git](#git)
   * [Specific](#specific)
   * [References](#references)
-* [PsychoPy](#psychopy)
 * [Jupyter](#jupyter)
-* [Docker](#docker)
+* [Containers](#containers)
+  * [Scientific use](#scientific-use)
+* [PsychoPy](#psychopy)
 * [Other tools](#other-tools)
 * [Other resources](#other-resources)
 
@@ -64,6 +65,7 @@ Tags indicate the format of the resource:
 - [Think Python](https://github.com/AllenDowney/ThinkPython2) _by Allen Downey_ ![](https://img.shields.io/badge/-book-violet.svg)
 
 #### Pandas
+- [Data manipulation in Python/Pandas](https://neurohackademy.org/course/complex-data-structures/) _by Tal Yarkoni at Neurohackademy_ ![](https://img.shields.io/badge/-video-green.svg)
 - [Pandas learning resources](http://pandas.pydata.org/pandas-docs/stable/tutorials.html) ![](https://img.shields.io/badge/-list-brown.svg)
 
 #### Debugging
@@ -71,15 +73,18 @@ Tags indicate the format of the resource:
 
 #### Testing
 - [Python testing and continuous integration](http://katyhuff.github.io/python-testing/) _by Katy Huff_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
+- [Software testing](https://neurohackademy.org/course/software-testing-2/) _by Chris Gorgolewski within Neurohackweek_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
+- [Testing scientific code](https://neurohackademy.org/course/testing-scientific-code/) _by Chris Gorgolewski within Neurohackweek 2017_ ![](https://img.shields.io/badge/-video-green.svg)
 
 #### Packaging
 - [Packaging in Python](https://nsls-ii.github.io/scientific-python-cookiecutter/index.html) ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [Packaging intro](http://veekaybee.github.io/2017/09/26/python-packaging/#intro) _by Vicki Boykis_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
+- [Python packaging](https://neurohackademy.org/course/python-packaging/) _by Ariel Rokem at Neurohackademy 2018_ ![](https://img.shields.io/badge/-video-green.svg)
 
-#### Others/Advanced
+#### Others
 - [All algorithms implemented in Python](https://github.com/TheAlgorithms/Python) ![](https://img.shields.io/badge/-tutorial-blue.svg)
-- [Awesome Python features explained with Harry Potter](Awesome Python Features Explained Using the World of Magic
-) ![](https://img.shields.io/badge/-tutorial-blue.svg)
+- [Cython and numba](https://neurohackademy.org/course/cython-and-numba/) _by Ariel Rokem at Neurohackweek 2016_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
+- [High-performance Python](https://neurohackademy.github.io/high-performance-python/) _by Ariel Rokem at Neurohackweek_
 - [Type annotations](https://dev.to/dstarner/using-pythons-type-annotations-4cfe) ![](https://img.shields.io/badge/-tutorial-blue.svg)
 
 #### Scientific Python
@@ -88,9 +93,13 @@ Tags indicate the format of the resource:
 - [Visualization in Python](https://github.com/neurohackademy/visualization-in-python/blob/master/visualization-in-python.ipynb) _by Tal Yarkoni_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
 
 
-## Terminal
+## Shell programming
 - [Conquering the command line](http://conqueringthecommandline.com/book/frontmatter) ![](https://img.shields.io/badge/-book-violet.svg)
+- [Learn shell](https://www.learnshell.org/) ![](https://img.shields.io/badge/-tutorial-blue.svg)
+- [The shell introduction I wish I had](https://dev.to/maxwell_dev/the-shell-introduction-i-wish-i-had-551k) _by Max Antonucci_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [The Unix shell](http://swcarpentry.github.io/shell-novice/) _by The Carpentries_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
+- [Vim interactive tutorial](https://www.openvim.com/) ![](https://img.shields.io/badge/-tutorial-blue.svg)
+
 
 ## Git
 - [A Quick Introduction to Version Control with
@@ -124,7 +133,6 @@ Git and GitHub](https://journals.plos.org/ploscompbiol/article?id=10.1371/journa
 - [Command list](https://git-scm.com/docs)
 - [Official cheat-sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 
-## PsychoPy
 
 ## Jupyter
 - [Jupyter notebook tutorial: the definitive guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook) _by Karlijin Willems at datacamp_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
@@ -133,8 +141,27 @@ Git and GitHub](https://journals.plos.org/ploscompbiol/article?id=10.1371/journa
 - [28 jupyter notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/) ![](https://img.shields.io/badge/-tutorial-blue.svg)
 
 
-## Docker
+## Containers
+- [Docker official tutorial](https://docs.docker.com/get-started/#docker-concepts) ![](https://img.shields.io/badge/-tutorial-blue.svg)
+- [The containers operator's manual](https://www.youtube.com/watch?v=sJx_emIiABk) ![](https://img.shields.io/badge/-video-green.svg)
+
+#### Scientific use
+- [Docker for scientists](https://neurohackademy.org/course/docker-for-scientists/) _by Chris Gorgolewski at Neurohackweek 2016_ ![](https://img.shields.io/badge/-video-green.svg)
+- [Docker for scientists](https://neurohackademy.org/course/docker/) _by Chris Gorgolewski at Neurohackweek_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [Docker tutorial](https://www.youtube.com/watch?v=hUvYdXo5MfU&index=17&t=0s&list=PLEE6ggCEJ0H0KOlMKx_PUVB_16VoCfGj9) _by Lucy Owen at MIND 2018_ ![](https://img.shields.io/badge/-video-green.svg)
+- [Neurodocker](https://github.com/kaczmarj/neurodocker): command-line program that generates custom Dockerfiles and Singularity recipes for neuroimaging and minifies existing containers ![](https://img.shields.io/badge/-tools-red.svg)
+  - here is a [tutorial](https://miykael.github.io/nipype_tutorial/notebooks/introduction_neurodocker.html)
+
+## PsychoPy
+**(only coder resources)**
+- [Introduction to PsychoPy for creating experiments](http://nbviewer.jupyter.org/github/gestaltrevision/python_for_visres/blob/master/Part2/Part2_PsychoPy.ipynb) _by Marteen Demeyer and Jonas Kubilius_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
+- [Official documentation](http://www.psychopy.org/documentation.html)
+- [Official forum](https://discourse.psychopy.org/)
+- [Official tutorial](http://www.psychopy.org/coder/coder.html)
+- [Programming for psychology in Python](http://www.djmannion.net/psych_programming/vision/index.html) ![](https://img.shields.io/badge/-tutorial-blue.svg)
+- [Programming with PsychoPy](https://www.socsci.ru.nl/wilberth/nocms/psychopy/print.php) _by Wilbert van Ham, Arvin Datadien and Pascal de Water_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
+  - also provides [videos](https://www.youtube.com/playlist?list=PLuqBA9VDSXk7Z06RtJ6Gh6Y5YznVrFrK6) of his tutorials ![](https://img.shields.io/badge/-video-green.svg)
+- [Resources](http://www.psychopy.org/resources/resources.html) ![](https://img.shields.io/badge/-list-brown.svg)
 
 
 ## Other Tools
