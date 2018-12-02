@@ -95,9 +95,11 @@ Tags indicate the format of the resource:
 
 ## Shell programming
 - [Conquering the command line](http://conqueringthecommandline.com/book/frontmatter) ![](https://img.shields.io/badge/-book-violet.svg)
+- [Learn enough command line to become dangerous](https://www.learnenough.com/command-line-tutorial) _by Michael Hartl_ ![](https://img.shields.io/badge/-book-violet.svg)
 - [Learn shell](https://www.learnshell.org/) ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [The shell introduction I wish I had](https://dev.to/maxwell_dev/the-shell-introduction-i-wish-i-had-551k) _by Max Antonucci_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [The Unix shell](http://swcarpentry.github.io/shell-novice/) _by The Carpentries_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
+- [Using the bash shell](http://www.jarrodmillman.com/rcsds/standard/bash.html) ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [Vim interactive tutorial](https://www.openvim.com/) ![](https://img.shields.io/badge/-tutorial-blue.svg)
 
 
