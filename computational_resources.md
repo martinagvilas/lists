@@ -40,13 +40,14 @@ Tags indicate the format of the resource:
 ## Programming and CS basics
 - [Base CS](https://medium.com/basecs) ![](https://img.shields.io/badge/-blog-orange.svg)
 - [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#coding-style) ![](https://img.shields.io/badge/-list-brown.svg)
-- [Code: the hidden language of computer hardware and software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) _by Charles Petzold_ ![](https://img.shields.io/badge/-book-violet.svg)
+- [Code: the hidden language of computer hardware and software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) _by Charles Petzold_ ![](https://img.shields.io/badge/-book-violet.svg) :star: 
 - [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) ![](https://img.shields.io/badge/-list-brown.svg)
 - [CS50 Introduction to Computer Science - Harvard](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) ![](https://img.shields.io/badge/-course-grey.svg)
 - [Free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#c-1) ![](https://img.shields.io/badge/-list-brown.svg)
 - [Nand2tetris](https://www.nand2tetris.org/course): the site contains all the project materials and software tools necessary for building a general-purpose computer system from the ground up ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [Obtaining a thorough CS background online](https://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online/) ![](https://img.shields.io/badge/-list-brown.svg)
 - [Open Source Society University in computer science](https://github.com/ossu/computer-science): the OSSU curriculum is a complete education in computer science using online materials. ![](https://img.shields.io/badge/-list-brown.svg)
+- [Programming principles](https://webpro.github.io/programming-principles/) ![](https://img.shields.io/badge/-list-brown.svg)
 - [Teach yourself computer science](https://teachyourselfcs.com/) ![](https://img.shields.io/badge/-list-brown.svg)
 - [Tech dev guide by Google](https://techdevguide.withgoogle.com/) ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [10 common data-structures explained with videos + exercise](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b) ![](https://img.shields.io/badge/-tutorial-blue.svg) ![](https://img.shields.io/badge/-video-green.svg)
@@ -70,6 +71,7 @@ Tags indicate the format of the resource:
 - [Learn Python](https://www.learnpython.org/) ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [PEP 8 style guide](https://www.python.org/dev/peps/pep-0008/)
 - [Python tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) _by Corey Schafer_ ![](https://img.shields.io/badge/-video-green.svg)
+- [Python code quality: tools and best practices](https://realpython.com/python-code-quality/) _by Alexander VanTol_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [Think Python](https://github.com/AllenDowney/ThinkPython2) _by Allen Downey_ ![](https://img.shields.io/badge/-book-violet.svg)
 
 #### Pandas
@@ -80,10 +82,12 @@ Tags indicate the format of the resource:
 - [Debugging with Pycharm](https://www.jetbrains.com/help/pycharm/part-1-debugging-python-code.html) ![](https://img.shields.io/badge/-tutorial-blue.svg)
 
 #### Testing
+- [Continuous integration with Python: an introduction](https://realpython.com/python-continuous-integration/) _by Kristijan Ivancic_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [Getting started with testing in Python](https://realpython.com/python-testing/) ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [Python testing and continuous integration](http://katyhuff.github.io/python-testing/) _by Katy Huff_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [Software testing](https://neurohackademy.org/course/software-testing-2/) _by Chris Gorgolewski within Neurohackweek_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [Testing scientific code](https://neurohackademy.org/course/testing-scientific-code/) _by Chris Gorgolewski within Neurohackweek 2017_ ![](https://img.shields.io/badge/-video-green.svg)
+- [Testing 101: Introduction to testing](https://alysivji.github.io/testing-101-introduction-to-testing.html) _by Aly Sivji in Deep Dives_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
 
 #### Packaging
 - [Packaging in Python](https://nsls-ii.github.io/scientific-python-cookiecutter/index.html) ![](https://img.shields.io/badge/-tutorial-blue.svg)
