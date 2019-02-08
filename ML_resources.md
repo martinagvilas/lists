@@ -1,7 +1,7 @@
 # Machine learning and data science resources
 
 ![](https://img.shields.io/badge/-list-brown.svg)
-![](https://img.shields.io/badge/-online tutorial-blue.svg)
+![](https://img.shields.io/badge/-tutorial-blue.svg)
 ![](https://img.shields.io/badge/-video-green.svg)
 
 ## Basic ML
