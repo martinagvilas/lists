@@ -40,10 +40,11 @@ Tags indicate the format of the resource:
 ## Programming and CS basics
 - [Base CS](https://medium.com/basecs) ![](https://img.shields.io/badge/-blog-orange.svg)
 - [Best websites a programmer should visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#coding-style) ![](https://img.shields.io/badge/-list-brown.svg)
-- [Code: the hidden language of computer hardware and software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) _by Charles Petzold_ ![](https://img.shields.io/badge/-book-violet.svg) :star: 
+- [Code: the hidden language of computer hardware and software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319) _by Charles Petzold_ ![](https://img.shields.io/badge/-book-violet.svg) :star:
 - [Computer Science Resources](https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#) ![](https://img.shields.io/badge/-list-brown.svg)
 - [CS50 Introduction to Computer Science - Harvard](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) ![](https://img.shields.io/badge/-course-grey.svg)
 - [Free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#c-1) ![](https://img.shields.io/badge/-list-brown.svg)
+- [How computers work](https://www.coursera.org/learn/how-computers-work/home/welcome) ![](https://img.shields.io/badge/-course-grey.svg)
 - [Nand2tetris](https://www.nand2tetris.org/course): the site contains all the project materials and software tools necessary for building a general-purpose computer system from the ground up ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [Obtaining a thorough CS background online](https://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online/) ![](https://img.shields.io/badge/-list-brown.svg)
 - [Open Source Society University in computer science](https://github.com/ossu/computer-science): the OSSU curriculum is a complete education in computer science using online materials. ![](https://img.shields.io/badge/-list-brown.svg)
@@ -102,6 +103,7 @@ Tags indicate the format of the resource:
 
 #### Scientific Python
 - [Scientific computing with Python](https://www.youtube.com/watch?v=RhNfnQlnCEo&index=18&t=0s&list=PLEE6ggCEJ0H0KOlMKx_PUVB_16VoCfGj9) _by Luke Chang at MIND 2018_ ![](https://img.shields.io/badge/-video-green.svg)
+- [SciPy Conference 2018](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gd-tNhm79CNMe_qvi35PgUR)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) _by Jake VanderPlas_ ![](https://img.shields.io/badge/-book-violet.svg)
 - [Python for experimental psychologists](https://www.amazon.de/Python-Experimental-Psychologists-Edwin-Dalmaijer/dp/1138671576) _by Edwin S. Dalmaijer_ ![](https://img.shields.io/badge/-book-violet.svg)
 - [Visualization in Python](https://github.com/neurohackademy/visualization-in-python/blob/master/visualization-in-python.ipynb) _by Tal Yarkoni_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
@@ -113,13 +115,18 @@ Tags indicate the format of the resource:
 - [Learn shell](https://www.learnshell.org/) ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [The shell introduction I wish I had](https://dev.to/maxwell_dev/the-shell-introduction-i-wish-i-had-551k) _by Max Antonucci_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [The Unix shell](http://swcarpentry.github.io/shell-novice/) _by The Carpentries_ ![](https://img.shields.io/badge/-tutorial-blue.svg)
+- [Unix tutorial for beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/) ![](https://img.shields.io/badge/-tutorial-blue.svg) :star:
 - [Using the bash shell](http://www.jarrodmillman.com/rcsds/standard/bash.html) ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [Vim interactive tutorial](https://www.openvim.com/) ![](https://img.shields.io/badge/-tutorial-blue.svg)
+
+#### Neuroimaging Specific
+- [Scripting for FSL](https://fsl.fmrib.ox.ac.uk/fslcourse/lectures/scripting/index.htm) ![](https://img.shields.io/badge/-tutorial-blue.svg)
 
 
 ## Git
 - [A Quick Introduction to Version Control with
 Git and GitHub](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668) _by Bilschak et al.(2016)_ ![](https://img.shields.io/badge/-paper-yellow.svg)
+- [Community starter kit](https://lab.github.com/githubtraining/community-starter-kit): transform your code into an open source project ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [Github learning lab courses](https://lab.github.com/courses) ![](https://img.shields.io/badge/-tutorial-blue.svg)
 - [Github get up and running](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-) ![](https://img.shields.io/badge/-video-green.svg)
 - [Github guides](https://guides.github.com/) ![](https://img.shields.io/badge/-tutorial-blue.svg)
